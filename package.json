@@ -1,0 +1,16 @@
+{
+  "name": "slack_cli",
+  "version": "1.0.0",
+  "description": "consume slack API with CLI",
+  "main": "index.js",
+  "scripts": {
+    "start": "./bin/www"
+  },
+  "author": "Nayan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "node": "^16.1.0"
+  }
+}
